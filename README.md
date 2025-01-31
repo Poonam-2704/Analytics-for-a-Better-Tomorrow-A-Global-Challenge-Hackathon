@@ -17,10 +17,10 @@ User Verification – Consumers can verify drug authenticity by checking its his
 
 Technology Stack
 
-Blockchain: Ethereum, Ganache
-Smart Contracts: Solidity, Truffle, Remix IDE
-Frontend: HTML, Bootstrap, JavaScript, Web3.js
-Testing: Mocha, Chai
+Blockchain: Ethereum, Ganache.  
+Smart Contracts: Solidity, Truffle, Remix IDE.  
+Frontend: HTML, Bootstrap, JavaScript, Web3.js.  
+
 
 
 Setup Instructions
