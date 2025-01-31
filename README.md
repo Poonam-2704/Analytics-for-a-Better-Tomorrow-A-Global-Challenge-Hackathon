@@ -18,18 +18,14 @@ User Verification – Consumers can verify drug authenticity by checking its his
 Technology Stack
 
 Blockchain: Ethereum, Ganache
-
 Smart Contracts: Solidity, Truffle, Remix IDE
-
 Frontend: HTML, Bootstrap, JavaScript, Web3.js
-
 Testing: Mocha, Chai
 
 
 Setup Instructions
 
 Prerequisites
-
 Ensure you have the following installed:
 
 Node.js (with npm)
@@ -93,10 +89,7 @@ Balance Left:
 
 
 
-Future Enhancements
-QR Code Integration for easy drug verification.
-IoT Sensor Support to track environmental conditions in the supply chain.
-Hyperledger Fabric Integration for private and permissioned blockchain networks.
+
 License
 This project is open-source under the MIT License.
 
