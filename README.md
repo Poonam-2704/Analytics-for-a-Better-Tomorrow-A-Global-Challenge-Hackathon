@@ -29,7 +29,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/pharma-supply-chain.git
+git clone https://github.com/Poonam-2704/Analytics-for-a-Better-Tomorrow-A-Global-Challenge-Hackathon
 cd pharma-supply-chain
 Install dependencies:
 
@@ -54,6 +54,7 @@ Transfer Ownership to track the drug’s movement through the supply chain.
 Verify Authenticity by checking the blockchain record for any registered drug.
 Snapshots
 Below are some snapshots of the application interface:
+
 Home Page
 ![Screenshot 2025-01-31 104227](https://github.com/user-attachments/assets/4e0d2a5f-9756-4bba-840f-de501461f26f)
 
@@ -67,11 +68,12 @@ Home Page
 ![Screenshot 2025-01-31 104304](https://github.com/user-attachments/assets/2e2ef3f4-2f69-4941-88a6-4e26f8f6c6c5)
 
 ![Screenshot 2025-01-31 103907](https://github.com/user-attachments/assets/c3d57c9a-1c6c-4de9-87af-cc181a1c5710)
+![Screenshot 2025-01-31 105922](https://github.com/user-attachments/assets/16496273-45ed-45da-860a-1b84679ce2d6)
+
 
 ![Screenshot 2025-01-31 104108](https://github.com/user-attachments/assets/ae81c683-20cb-49b1-a7f5-b3edb63d5e06)
 ![Screenshot 2025-01-31 104055](https://github.com/user-attachments/assets/a77d4de0-759d-4960-94c5-5d288144062e)
 ![Screenshot 2025-01-31 104041](https://github.com/user-attachments/assets/fd2430cd-fc59-417e-835f-d6ea644637f2)
-![Screenshot 2025-01-31 104304](https://github.com/user-attachments/assets/101d55e8-4f99-40b5-ac45-0d0775c670e7)
 
 Balance Left:
 ![Screenshot 2025-01-31 130344](https://github.com/user-attachments/assets/45e80f98-391c-42e5-bb3c-88ecd53d698d)
