@@ -34,21 +34,16 @@ Installation Steps
 
 Clone the repository:
 
-git clone https://github.com/Poonam-2704/Analytics-for-a-Better-Tomorrow-A-Global-Challenge-Hackathon
-
-cd pharma-supply-chain
+git clone https://github.com/Poonam-2704/Analytics-for-a-Better-Tomorrow-A-Global-Challenge-Hackathon.   
+cd pharma-supply-chain.  
 
 Install dependencies:
 
-npm install
-
-Start Ganache and ensure it is running on port 7545.
-
-Deploy the smart contract:
-
-truffle migrate --reset
-
-Open index.html in a browser with MetaMask connected to the correct network.
+npm install.   
+Start Ganache and ensure it is running on port 7545.  
+Deploy the smart contract:   
+truffle migrate --reset.   
+Open index.html in a browser with MetaMask connected to the correct network.   
 
 How It Works
 Connect MetaMask to an Ethereum account.
