@@ -24,27 +24,23 @@ Truffle (npm install -g truffle)
 Ganache (for local blockchain development)
 MetaMask (browser extension for Ethereum transactions)
 Installation Steps
+
 Clone the repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/Poonam-2704/Analytics-for-a-Better-Tomorrow-A-Global-Challenge-Hackathon
+
 cd pharma-supply-chain
+
 Install dependencies:
 
-bash
-Copy
-Edit
 npm install
+
 Start Ganache and ensure it is running on port 7545.
 
 Deploy the smart contract:
 
-bash
-Copy
-Edit
 truffle migrate --reset
+
 Open index.html in a browser with MetaMask connected to the correct network.
 
 How It Works
