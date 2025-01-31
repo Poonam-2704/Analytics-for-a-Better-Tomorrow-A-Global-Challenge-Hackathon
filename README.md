@@ -7,12 +7,9 @@ The Blockchain-Based Pharmaceutical Supply Chain project leverages blockchain te
 
 Key Features
 
-Drug Registration on Blockchain – Each drug batch receives a unique identifier stored securely on the blockchain.
-
-Ownership Tracking – Ensures a transparent transfer of drugs from manufacturers to distributors and pharmacies.
-
-Data Integrity – Blockchain records cannot be altered, preventing fraud and counterfeiting.
-
+Drug Registration on Blockchain – Each drug batch receives a unique identifier stored securely on the blockchain.  
+Ownership Tracking – Ensures a transparent transfer of drugs from manufacturers to distributors and pharmacies.  
+Data Integrity – Blockchain records cannot be altered, preventing fraud and counterfeiting.   
 User Verification – Consumers can verify drug authenticity by checking its history on the blockchain.
 
 Technology Stack
@@ -28,13 +25,10 @@ Setup Instructions
 Prerequisites
 Ensure you have the following installed:
 
-Node.js (with npm)
-
-Truffle (npm install -g truffle)
-
-Ganache (for local blockchain development)
-
-MetaMask (browser extension for Ethereum transactions)
+Node.js (with npm).  
+Truffle (npm install -g truffle).       
+Ganache (for local blockchain development).   
+MetaMask (browser extension for Ethereum transactions).    
 
 Installation Steps
 
