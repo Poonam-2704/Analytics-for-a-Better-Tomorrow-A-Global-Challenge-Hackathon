@@ -59,10 +59,14 @@ Home Page
 
 ![Screenshot 2025-01-31 104153](https://github.com/user-attachments/assets/b9670466-1def-4b20-b1d8-c3bc56efb363)
 ![Screenshot 2025-01-31 104203](https://github.com/user-attachments/assets/ad8589ca-252c-442e-8391-9eaaf555fa8d)
+![Screenshot 2025-01-31 104304](https://github.com/user-attachments/assets/2e2ef3f4-2f69-4941-88a6-4e26f8f6c6c5)
+
+
+![Screenshot 2025-01-31 105840](https://github.com/user-attachments/assets/f714b14f-d2a4-4d3b-918a-a87c0c8b31e0)
+
 
 ![Screenshot 2025-01-31 103907](https://github.com/user-attachments/assets/c3d57c9a-1c6c-4de9-87af-cc181a1c5710)
 
-![image](https://github.com/user-attachments/assets/26e8ace3-13e7-4eb8-bf01-1e1d2f161818)
 ![Screenshot 2025-01-31 104108](https://github.com/user-attachments/assets/ae81c683-20cb-49b1-a7f5-b3edb63d5e06)
 ![Screenshot 2025-01-31 104055](https://github.com/user-attachments/assets/a77d4de0-759d-4960-94c5-5d288144062e)
 ![Screenshot 2025-01-31 104041](https://github.com/user-attachments/assets/fd2430cd-fc59-417e-835f-d6ea644637f2)
