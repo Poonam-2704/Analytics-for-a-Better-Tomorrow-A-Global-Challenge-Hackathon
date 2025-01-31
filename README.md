@@ -1,28 +1,45 @@
 # Analytics-for-a-Better-Tomorrow-A-Global-Challenge-Hackathon
-Blockchain-Based Pharmaceutical Supply Chain
+#Blockchain-Based Pharmaceutical Supply Chain
+
 Overview
+
 The Blockchain-Based Pharmaceutical Supply Chain project leverages blockchain technology to ensure the authenticity and traceability of pharmaceutical products. By creating a secure and transparent system, this project aims to prevent counterfeit drugs from entering the supply chain and enhance trust among manufacturers, distributors, pharmacies, and consumers.
 
 Key Features
+
 Drug Registration on Blockchain – Each drug batch receives a unique identifier stored securely on the blockchain.
+
 Ownership Tracking – Ensures a transparent transfer of drugs from manufacturers to distributors and pharmacies.
+
 Data Integrity – Blockchain records cannot be altered, preventing fraud and counterfeiting.
+
 User Verification – Consumers can verify drug authenticity by checking its history on the blockchain.
+
 Technology Stack
+
 Blockchain: Ethereum, Ganache
+
 Smart Contracts: Solidity, Truffle, Remix IDE
+
 Frontend: HTML, Bootstrap, JavaScript, Web3.js
+
 Testing: Mocha, Chai
-Storage: IPFS / Cloud Storage
-Hosting: AWS / Azure
+
+
 Setup Instructions
+
 Prerequisites
+
 Ensure you have the following installed:
 
 Node.js (with npm)
+
 Truffle (npm install -g truffle)
+
 Ganache (for local blockchain development)
+
 MetaMask (browser extension for Ethereum transactions)
+
 Installation Steps
 
 Clone the repository:
